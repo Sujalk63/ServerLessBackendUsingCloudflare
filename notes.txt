@@ -1,0 +1,6 @@
+Initialize a worker: npm create cloudflare -- my-app
+
+package dependency:  "wrangler": "^3.0.0"
+
+start worker locally:  "npm run dev"
+
